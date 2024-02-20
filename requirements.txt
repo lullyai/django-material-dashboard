@@ -11,3 +11,8 @@ gunicorn==21.2.0
 
 # psycopg2-binary
 # mysqlclient
+
+# lully bits
+django-allauth==0.61.1
+django-tos==1.1.0
+psycopg2==2.9.9
